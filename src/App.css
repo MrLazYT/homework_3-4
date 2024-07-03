@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.go {
+  background-color: limegreen;
+}
+
+.getReady {
+  background-color: goldenrod;
+}
+
+.stop {
+  background-color: darkred;
+}
+
+br {
+  margin: 25px;
+}
